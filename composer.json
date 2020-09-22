@@ -1,5 +1,5 @@
 {
-    "name": "vicchi/geojson-rewind",
+    "name": "klsdfr/geojson-rewind",
     "description": "PHP helper classes to enforce RFC7946 polygon winding order in GeoJSON",
     "type": "library",
     "keywords": ["php", "geojson", "polygon", "winding order"],
